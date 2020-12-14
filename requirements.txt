@@ -4,3 +4,4 @@ seaborn==0.10.0
 pandas==1.0.1
 numpy==1.18.1
 scipy==1.4.1
+ipympl==0.5.8
